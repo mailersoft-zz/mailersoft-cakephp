@@ -1,0 +1,12 @@
+{
+    "name": "mailerloop/mailerloop-cakephp",
+	"license": "MIT",
+    "type": "cakephp-plugin",
+	"version": "1.0.0",
+    "require": {
+        "composer/installers": "*"
+    },
+ 	"extra": {
+        "installer-name": "MailerLoop"
+    }
+}
